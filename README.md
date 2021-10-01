@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @absolutennis
+- 👀 I’m interested in tennis, analytics and big data
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on AI for Tennis
